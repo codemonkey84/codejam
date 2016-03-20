@@ -10,7 +10,7 @@ import java.util.Vector;
 
 /**
  * @author lenovo
- *
+ * Find the min scalar product of two vectors 
  */
 public class ScalarProduct {
 
